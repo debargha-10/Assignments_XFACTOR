@@ -1,0 +1,202 @@
+Welcome to Student Management System 
+
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 1
+
+Enter name: Debargha
+
+Enter age: 21
+
+Enter gender: M
+
+Enter address: 99, BM
+
+Student added.
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 1
+
+Enter name: Srijan
+
+Enter age: 20
+
+Enter gender: M
+
+Enter address: 1, MG
+
+Student added.
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 2
+Student Database: 
+
+Name     |       Age     |       Gender          |       Address
+
+Debargha           21              M                     99, BM
+
+Srijan             20              M                      1, MG
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 3
+
+Enter student name for deletion: Srijan
+
+
+Student record deleted successfully
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y      
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 2
+Student Database: 
+
+Name     |       Age     |       Gender          |       Address
+
+Debargha         21                M                      99, BM
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 4
+
+Enter name of department: IT
+
+Enter name of HOD: AKS
+
+Department added
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 4
+
+Enter name of department: CSE
+
+Enter name of HOD: AB
+
+Department added
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 5
+
+List of Departments:
+
+Dept     |       HOD
+
+IT               AKS
+
+CSE              AB
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 6
+
+Enter the department name for deletion: CSE
+
+
+Department removed successfully
+
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 6
+
+Enter the department name for deletion: IT
+
+
+Department removed successfully
+
+Enter Y/N to continue/exit: Y
+
+1. Add Student
+2. List Student
+3. Remove Student
+4. Add Department
+5. List Department
+6. Remove Department
+
+Enter your choice: 5
+
+List of Departments:
+
+Dept     |       HOD
+
+____________________________________________________________________________________________________
+Enter Y/N to continue/exit: N
+Thank You for using Student Management System
